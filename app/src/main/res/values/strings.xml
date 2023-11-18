@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Story</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="for_register">belum punya akun?</string>
+    <string name="for_login">Sudah punya akun?</string>
+    <string name="name">Name</string>
+    <string name="submit">Submit</string>
+    <string name="menu_1">logout</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logo">Logo</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="undefined">undefined</string>
+    <string name="timeout">timeout\n</string>
+    <string name="reload">reload</string>
+    <string name="picture">picture</string>
+</resources>
